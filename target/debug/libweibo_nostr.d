@@ -1,0 +1,1 @@
+/Users/xy/work/freefrom/weibo-nostr/target/debug/libweibo_nostr.rlib: /Users/xy/work/freefrom/weibo-nostr/src/fetch.rs /Users/xy/work/freefrom/weibo-nostr/src/lib.rs /Users/xy/work/freefrom/weibo-nostr/src/uid.rs

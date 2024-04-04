@@ -1,0 +1,11 @@
+/Users/xy/work/freefrom/weibo-nostr/target/debug/deps/libnostr_sdk-6531e5a88e8e5f7e.rmeta: /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/lib.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/mod.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/builder.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/options.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/zapper.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/prelude.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/../README.md
+
+/Users/xy/work/freefrom/weibo-nostr/target/debug/deps/nostr_sdk-6531e5a88e8e5f7e.d: /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/lib.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/mod.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/builder.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/options.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/zapper.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/prelude.rs /Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/../README.md
+
+/Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/lib.rs:
+/Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/mod.rs:
+/Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/builder.rs:
+/Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/options.rs:
+/Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/client/zapper.rs:
+/Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/prelude.rs:
+/Users/xy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nostr-sdk-0.29.0/src/../README.md:
